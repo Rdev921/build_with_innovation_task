@@ -1,8 +1,27 @@
-# React + Vite
+Objective - <b>Built an E-Commerce App for the purpose of the shopping online from anytime and anywhere</b>
+Tech-Stack - <b>HTML, CSS, ReactJS, React-Bootstrap, react-toastify for notification purpose</b>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Summary- 
+Authentication - In This app Include Login with Protected Route for react-router-dom. If user is not Authenticated not acess to the Home page.
+Filter Products by Category- Choose the product with different -differnt categories like- Smart Phones, Skincare, Groceries, Laptops etc.
+Filter Products by Price- Choose the product with specific price range for High to Low range and Low to High range.
+Search - User want to Search any type of product for specific purpose with any type of category.
+Cart - In Which Show all the products whatever you purchase.
 
-Currently, two official plugins are available:
+//Login Page
+![image](https://github.com/Rdev921/build_with_innovation_task/assets/61020616/5984455b-fc75-47b2-945d-c1328d469f17)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+//Home Page
+![image](https://github.com/Rdev921/build_with_innovation_task/assets/61020616/59391a0a-d4a3-4bc3-b3cb-ce288b2dfb43)
+
+//Cart Page
+![image](https://github.com/Rdev921/build_with_innovation_task/assets/61020616/fd4d2890-d633-42e8-8e0e-06ae2a9f9d0e)
+
+
+//Empty Cart
+![image](https://github.com/Rdev921/build_with_innovation_task/assets/61020616/088d5c91-3536-465b-b376-6f119d8e8f38)
+
+
+
+
+
