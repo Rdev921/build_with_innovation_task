@@ -15,7 +15,7 @@ Cart - In Which Show all the products whatever you purchase.
 ![image](https://github.com/Rdev921/build_with_innovation_task/assets/61020616/59391a0a-d4a3-4bc3-b3cb-ce288b2dfb43)
 
 //Cart Page
-![image](https://github.com/Rdev921/build_with_innovation_task/assets/61020616/fd4d2890-d633-42e8-8e0e-06ae2a9f9d0e)
+![image](https://github.com/Rdev921/build_with_innovation_task/assets/61020616/2abe1aa8-7c86-4bdf-9d74-3e3a63def100)
 
 
 //Empty Cart
